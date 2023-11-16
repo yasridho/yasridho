@@ -66,7 +66,7 @@
 
 ## Github Stats
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yasridho&theme=python-dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<img src="https://streak-stats.demolab.com?user=yasridho&theme=python-dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=455" alt="GitHub Streak" />
 <img alt="Yasri Ridho Pahlevi" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasridho&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=ffd43b&icon_color=F8D866&hide=Jupyter%20Notebook" height="195px"/>
 </div>
 
