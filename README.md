@@ -1,5 +1,5 @@
 ### <div align="center">I am Yasri 😄, currently 🎓 studying at Telkom University majoring in Informatics. 💻</div>
-<h3 align="center"><a href="https://hud0shnik.github.io/">
+<h3 align="center">
    <img alt="Yasri Ridho Pahlevi" src="https://readme-typing-svg.herokuapp.com/?lines=Yasri+Ridho+Pahlevi;Python+developer;Chatbot+developer&font=Fira%20Code&width=440&height=45&color=ffd43b&vCenter=true&size=21"></a>
 </h3>
 
