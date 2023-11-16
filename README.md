@@ -1,15 +1,13 @@
-<div align="center">
-<img src="https://github.com/yasridho/yasridho/blob/main/profile.jpg" align="center" width="20%" style="border-radius:50%" />
-</div>
-
-### <div align="center">I am Yasri 😄, currently 🎓 studying at Telkom University majoring in Informatics. 💻</div>  
-  
+### <div align="center">I am Yasri 😄, currently 🎓 studying at Telkom University majoring in Informatics. 💻</div>
+<h3 align="center"><a href="https://hud0shnik.github.io/">
+   <img alt="Yasri Ridho Pahlevi" src="https://readme-typing-svg.herokuapp.com/?lines=Yasri+Ridho+Pahlevi;Python+developer;Chatbot+developer&font=Fira%20Code&width=440&height=45&color=ffd43b&vCenter=true&size=21"></a>
+</h3>
 
 - 🔭 I’m currently working on [Pasar Petani](https://github.com/yasridho/Pasar-Petani-RPL)  
-  
-- 🌱 I’m currently learning Flutter and Sveltekit  
-  
-- ⚡ Fun fact: My first programming language is Python.
+- 🌱 I’m currently learning **Flutter, Sveltekit, Frontend, NLP, and Data Science**.
+- 💬 Ask me about developing a discord bot or any other chatbot.
+- ⚡ Fun fact: Rice is very good.
+- 😍 I love earl grey milk tea, fried noodle, and 💙python💙
   
 
 <br/>
@@ -66,7 +64,11 @@
 
 </td></tr></table>  
 
-<br/>  
+## Github Stats
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yasridho&theme=python-dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<img alt="Yasri Ridho Pahlevi" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasridho&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=ffd43b&icon_color=F8D866&hide=Jupyter%20Notebook" height="195px"/>
+</div>
 
 
 ## Connect with me  
