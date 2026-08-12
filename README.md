@@ -1,66 +1,73 @@
-### <div align="center">I am Yasri 😄, currently 🎓 studying Cybersecurity at Dibimbing.id. 💻</div>
+# Hi, I'm Yasri 👋
 
-<div align="center">
-   <img alt="Yasri Ridho Pahlevi" src="https://readme-typing-svg.herokuapp.com/?lines=Yasri+Ridho+Pahlevi;Cybersecurity+Enthusiasts;Chatbot+developer&font=Fira%20Code&width=440&height=45&color=ffd43b&center=true&vCenter=true&size=21"></a>
-</div>
+I build software, experiment with technology, and document things I find interesting along the way.
 
-- 🔭 I’m currently working on **Malware Analysis & Simulation**
-- 🌱 I’m currently learning **Malware Analysis, Penetration Testing, and Security Operations**.
-- 💬 Ask me about **Cybersecurity, Malware Analysis, or Python automation**.
+This profile contains a mix of software projects, university work, technical experiments, and security labs.
 
-## Technical Skills
+## Selected Work
 
-**Malware Analysis:** Flare-VM, Process Monitor (Procmon), ProcDot, VirusTotal, YARA, PeStudio <br>
-**Network Analysis:** Wireshark, TCPView <br>
-**Penetration Testing:** Metasploit Framework, Burp Suite, Nmap <br>
-**Infrastructure & Dev:** Docker, AWS, Supabase, Neovim <br>
-**Virtualization:** VirtualBox <br>
-**Programming Language:** Python, C++, C, Java, SQL, JavaScript
+### 🔬 Malware Analysis with Flare-VM
 
-## Concepts
+A malware analysis lab conducted in an isolated Windows environment using a Metasploit-generated Reverse HTTPS payload.
 
-**1. Dynamic Analysis:** Behavioral monitoring of malware in isolated sandboxes. <br>
-**2. Threat Intelligence:** Identifying and classifying IOCs (Indicators of Compromise). <br>
-**3. Defense Evasion:** Understanding obfuscation, packing, and anti-analysis techniques. <br>
-**4. Network Forensics:** Analyzing C2 (Command & Control) traffic patterns. <br>
-**5. MITRE ATT&CK:** Mapping adversary behaviors to standard tactics and techniques (e.g., T1027, T1071).
+The analysis covers:
 
-## Project Experience
+* Payload creation with MSFVenom
+* Execution and observation inside Flare-VM
+* Process and registry activity
+* Network behavior
+* VirusTotal analysis
+* YARA detections
+* Indicators of Compromise
+* MITRE ATT&CK references
 
-### **Project 1: Malware Analysis & Simulation (Reverse HTTPS Stager)**
+Tools used include **Flare-VM, Metasploit, Process Monitor, ProcDot, Wireshark, VirusTotal, and YARA**.
 
-**Objective:** Conduct a full-lifecycle analysis of a custom-generated malware payload to understand its behavior, infection chain, and persistence mechanisms in a controlled environment. <br>
-**Tools Used:** MSFVenom, Flare-VM, Process Monitor, Wireshark, ProcDot, VirusTotal.
+📖 [Read the analysis](./Malware-Analysis-With-FlareVM/README.md)
 
-**Methodology:**
+---
 
-1. **Malware Creation:** Generated a Meterpreter payload (`ysrdh.exe`) using `msfvenom` configured for Reverse HTTPS communication.
-2. **Sandbox Execution (Flare-VM):** Detonated the payload in a hardened Windows environment while running real-time monitoring tools.
-3. **Behavioral Monitoring:**
-   - **Registry Analysis:** Identified security lowering modifications (e.g., `ZoneMap` changes).
-   - **Network Analysis:** Captured encrypted C2 traffic on port 8080.
-   - **Process Analysis:** Observed process migration to legitimate system processes (e.g., `explorer.exe`).
-4. **Visualization:** Utilized **ProcDot** to generate a visual graph of the infection timeline.
+### 🔐 Hashing Comparison & Vulnerability Inspector
 
-**Outcome:**
+A small web application for visually comparing different approaches to password storage.
 
-- Successfully mapped the attack lifecycle and identified clear **IOCs**.
-- Produced a detailed technical report [Read Full Report Here](Malware-Analysis-With-FlareVM/README.md).
+The application stores the same registration data using:
 
-## Learning Journey
+* Plaintext
+* MD5
+* Bcrypt
 
-### What I've Learned So Far
+It provides a database inspector that makes the differences between each storage method visible.
 
-- Gained practical experience in setting up and managing safe malware labs (Flare-VM).
-- Learned to interpret complex system logs (Procmon) to distinguish between OS noise and malicious activity.
-- Developed skills in "connecting the dots" between network traffic and process execution.
+**Built with:** SvelteKit, Svelte 5, Tailwind CSS, SQLite, bcryptjs
 
-### Future Goals
+🔗 [View repository](https://github.com/yasridho/HashingComparison)
 
-- **Advanced Reverse Engineering:** Deepening knowledge in x86 Assembly and using debuggers like x64dbg/IDA Pro.
-- **Threat Hunting:** Automating the detection of the IOCs found during analysis.
+---
 
-## Connect with me
+### 🌾 Pasar Petani
+
+A team university project for a Flutter mobile application designed around agricultural product trading.
+
+The application includes functionality such as:
+
+* Authentication
+* User registration
+* Request processing
+* Request acceptance
+* Payment handling
+
+**Built with:** Flutter / Dart
+
+🔗 [View repository](https://github.com/yasridho/Pasar-Petani-RPL)
+
+## Other Repositories
+
+My public repositories also contain older software projects, experiments, coursework, and utilities from different periods of my development experience.
+
+You can find them at [github.com/yasridho](https://github.com/yasridho).
+
+## Connect
 
 <div align="center">
 <a href="https://github.com/yasridho" target="_blank">
@@ -76,7 +83,11 @@
 
 <br/>
 
-<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22jsejiuexeaptdvbfo6tvfxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=22jsejiuexeaptdvbfo6tvfxq&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22jsejiuexeaptdvbfo6tvfxq&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
+  </a>
+</p>
 
 <br/>
 
